@@ -1,4 +1,6 @@
-py -3.13 evaluate.py
 py -3.13 -m streamlit run app.py
 
 RUN THIS IN TERMINAL OF SAME FOLDER WHERE YOU SAVE ALL THE FILES TO RUN THE PROGRAM LOCALLY
+IF NOT WORKING THEN
+py -3.13 evaluate.py
+py -3.13 -m streamlit run app.py
