@@ -4,3 +4,5 @@ RUN THIS IN TERMINAL OF SAME FOLDER WHERE YOU SAVE ALL THE FILES TO RUN THE PROG
 IF NOT WORKING THEN
 py -3.13 evaluate.py
 py -3.13 -m streamlit run app.py
+
+OUR PRESCRIPTION READER TELEGRAM BOT:- https://web.telegram.org/k/#@apnachemistaibot
